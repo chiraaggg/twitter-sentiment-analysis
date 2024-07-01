@@ -49,5 +49,5 @@ To analyze and visualize sentiment patterns in Twitter data to understand public
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/twitter-sentiment-analysis.git
+   git clone https://github.com/chiraaggg/twitter-sentiment-analysis.git
    cd twitter-sentiment-analysis
